@@ -14,4 +14,5 @@ create_table "artists", force: :cascade do |t|
     t.integer "artist_id"
     t.integer "genre_id"
   end
+  
 end
